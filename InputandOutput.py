@@ -1,0 +1,10 @@
+name = input("Enter name: ")
+age = int(input("Enter age: "))
+branch = input("Enter Branch: ")
+rollno = int(input("Enter Roll Number: "))
+
+print("---STUDENT DETAILS---")
+print("Name: ",name)
+print("Age: ",age)
+print("Branch: ",branch)
+print("Roll Number: ",rollno)
