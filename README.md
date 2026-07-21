@@ -42,7 +42,9 @@ This repository documents my journey of learning **Python** from the very beginn
 ## 📈 Progress
 
 - ✅ Day 1 – Hello World
-- ⏳ More programs coming soon...
+- ✅ Day 2 – Variables
+- ✅ Day 3 – Input & Output
+- Remaining coming soon...
 
 ## 🌟 Why This Repository?
 
