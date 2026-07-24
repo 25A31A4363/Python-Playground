@@ -46,6 +46,8 @@ This repository documents my journey of learning **Python** from the very beginn
 - ✅ Day 3 – Input & Output
 - ✅ Day 4 - Operators
 - ✅ Day 5 - Conditional Statements
+- ✅ Day 6 - Loops
+  
 - Remaining coming soon...
 
 ## 🌟 Why This Repository?
